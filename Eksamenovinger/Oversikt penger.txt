@@ -1,0 +1,13 @@
+Taxi 170
+Taxi 300 (sykkel)
+Ikea 550
+Frisør 870
+Klær 2400
+Klær 1200
+Klær 600
+Sykkel 11800
+Apotek 530
+Apotek 275
+Sportsunderbukse 400kr
+Legetime 230kr
+

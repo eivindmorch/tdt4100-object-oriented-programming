@@ -1,0 +1,23 @@
+1 a) RAM er midlertidig lagring, mens harddisker (avhengig av typen) bruker magnetbrytere som ikke tilbakestilles når maskinen skrus av.
+     RAM 
+  
+  b) RAM kan leses og skrives, mens ROM (read only memory) bare kan leses.
+  
+  c) Tilfeldig aksess betyr at man kan hente opp spesifikk data direkte, mens man ved sekvensiell aksess må bla gjennom minnet til man kommer frem til ønsket data. Tilfeldig aksess er derfor raskere.
+  
+  d) 1. Stuff er funksjonsnavnet og x en parameter for funksjonen "stuff"
+     2. Mangler ":" på første line 1
+		Samme anførselstegn på linje 2 
+		xy er ikke x**y, det er opphøyd
+	 
+
+2 a) 	7 3
+		5 4
+		5 3
+		7 3
+	
+  b) 	x og y settes
+		main() kalles opp og setter lokale verdier for x og y, for så å printe disse -> 7 3
+		main() kaller så opp miks(3,7), miks() setter nye verdier for x og y og printer så disse -> 5 4
+		main() kaller opp tull(), tull henter globale verdier og printer x og y -> 5 3
+		main() printer lokal x og y -> 7 3

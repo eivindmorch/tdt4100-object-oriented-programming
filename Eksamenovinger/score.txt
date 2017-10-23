@@ -1,0 +1,27 @@
+2a	R
+2b	X
+2c	R?
+3a	R
+3b	R
+3c	R
+4a	R
+4b	R
+4c	R med innrykk feil i return (klage på hvis teller)
+4d	R- mangler <=, i steden for bare <
+4e	X kanskje R-
+4f	R- list out of range
+
+
+
+20
+5
+3
+5
+5
+5
+5
+5
+5
+10
+5
+5

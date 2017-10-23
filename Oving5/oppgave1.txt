@@ -1,0 +1,4 @@
+1 a) A i binær ASCII-værdi: 0100 0001 | Titallsystemet: 65
+  b) L i s p
+  c) Data som spesifiserer annen datas innhold og struktur.
+  
